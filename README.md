@@ -12,6 +12,8 @@ Movie Search Single Page Application Project
 Training Web Application Development Not Using Any Web Framework
 
 ## Run Project
+Initial setting can be done by `npm install`
+
 ### Test
     npm test
 ### Build
